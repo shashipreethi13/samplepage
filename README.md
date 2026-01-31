@@ -1,4 +1,3 @@
-# html
 <html>
 <head>
 <title>My github page</title>
