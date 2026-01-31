@@ -1,6 +1,8 @@
 <html>
 <head>
-<title>My github page</title>
+<title>
+  My github page
+</title>
 </head>
 <body>
 <h1>Welcome to my website</h1>
